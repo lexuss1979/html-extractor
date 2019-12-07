@@ -1,7 +1,7 @@
 {
     "name": "lexuss1979/html-extractor",
     "description": "Html parser",
-    "license": "GNUv3",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Alexey Afanasyev",
