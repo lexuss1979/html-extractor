@@ -1,0 +1,17 @@
+{
+    "name": "lexuss1979/html-extractor",
+    "description": "Html parser",
+    "license": "GNUv3",
+    "authors": [
+        {
+            "name": "Alexey Afanasyev",
+            "email": "afanasyev.a.a@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lexuss1979\\HtmlExtractor\\" : "src/"
+        }
+    }
+}
